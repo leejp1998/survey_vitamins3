@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Vitamin 3 Survey</string>
+    <string name="survey_explanation">This survey will enable our expert team to process the data and come up with the best initial vitamin packs just for you. It will only be only available to our expert team and you so please take some time so that you will get the best experience from us.</string>
+    <string name="q1">1. What is your name?</string>
+    <string name="q2">2. What is your email address?</string>
+    <string name="q3">3. How old are you?</string>
+    <string name="q4">4. What is your gender?</string>
+    <string name="q5">5. In an average week, you eat fish or seafood:</string>
+    <string name="q6">6. In an average week, you eat meat:</string>
+    <string name="q7">7. In an average week, you eat dairy:</string>
+    <string name="q8">8. In an average week, you eat vegetables:</string>
+    <string name="q9">9. In an average week, you eat fruits:</string>
+    <string name="q10">10. Do you have any dietary restrictions?</string>
+    <string name="q11">11. Are you on any of the following diets?</string>
+    <string name="q12">12. Do you smoke?</string>
+    <string name="q13">13. In an average week, you drink:</string>
+    <string name="q14">14. How\'s your stress level?</string>
+    <string name="q15">15. How\'s your mood this week compare to normal self?</string>
+    <string name="q16">16. Was there any past supplement and vitamin recommendation by doctor?</string>
+    <string name="q17">17. Is there any specific area of your body that you are interested in mproving or concerned about? (Choose up to 4)</string>
+    <string name="q18">18. Do you usually look at the computer screen more than 5 hours a day?</string>
+    <string name="q19">19. Are you suffering from any of the below illness? (Choose as many as you like)</string>
+    <string name="q20">20. Do you have any skin concerns?</string>
+    <string name="q21">21. How\'s your bowel movement?</string>
+    <string name="q22">22. Is there any family medical history? If yes, please specify below.</string>
+    <string name="q23">23. Are you interested in vitamins that would enhance your post-workout muscle recovery?</string>
+    <string name="q24">24. In an average week, you workout:</string>
+    <string name="q25">25. When it comes to a new product with a promising research, you:</string>
+    <string name="q26">26. Last question! Thank you for taking time to complete our survey. How did you hear about us?</string>
+
+
+</resources>
